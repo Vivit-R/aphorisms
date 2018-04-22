@@ -1,0 +1,80 @@
+Perl is like duct tape.  It's easy  to  use and great for quick and dirty fixes,
+but if you try to solve every problem with it, you're going to make a mess.
+%
+Haskell is a fun toy, but it's like writing a haiku.  It's not how you achieve a 
+goal unless part of the goal is writing a haiku.
+%
+A pointer  is  ike  a  tightly-wrapped  package.  It might  be  labeled  as  one 
+particular type of thing,  but sometimes it's unlabeled,  and sometimes it's not
+even correctly labeled.   You have no way of knowing  what's inside of  it until
+you open it.  It  might  contain  nothing  at all,  it might contain garbage, it
+might contain something valuable that  was damaged by the postal service because
+the package was mislabeled, or it might contain a letter bomb.
+
+Moral of the story: make sure you've got the right thing wrapped before you send
+it -- and make sure it has enough stamps.
+%
+The correct pronunciation of "regex" is "ree-jecks".
+%
+/* Historical note: The original versions of Hack used a range of damage
+ * which was similar to, but not identical to the damage used in Advanced
+ * Dungeons and Dragons.  I figured that since it was so close, I may as well
+ * make it exactly the same as AD&D, adding some more weapons in the process.
+ * This has the advantage that it is at least possible that the player would
+ * already know the damage of at least some of the weapons.  This was circa
+ * 1987 and I used the table from Unearthed Arcana until I got tired of typing
+ * them in (leading to something of an imbalance towards weapons early in
+ * alphabetical order).  The data structure still doesn't include fields that
+ * fully allow the appropriate damage to be described (there's no way to say
+ * 3d6 or 1d6+1) so we add on the extra damage in dmgval() if the weapon
+ * doesn't do an exact die of damage.
+ *
+ * Of course new weapons were added later in the development of Nethack.  No
+ * AD&D consistency was kept, but most of these don't exist in AD&D anyway.
+ *
+ * Second edition AD&D came out a few years later; luckily it used the same
+ * table.  As of this writing (1999), third edition is in progress but not
+ * released.  Let's see if the weapon table stays the same.  --KAA
+ * October 2000: It didn't.  Oh, well.
+ */
+%
+"So you see,  not only  does  COBOL  cause  brain  damage;  brain damage causes 
+COBOL."
+-- Peter Merel
+%
+"It is practically impossible to  teach good programming style  to students that
+have  had prior  exposure to BASIC;  as potential programmers  they are mentally
+mutilated beyond hope of regeneration."
+-- E. W. Dijkstra
+%
+The  quality  that makes  you  go  to  great  effort  to reduce  overall  energy
+expenditure.  It  makes you write labor-saving  programs  that other people will
+find  useful,  and document  what you wrote  so you don't have to answer so many
+questions about it.  Hence, the first great virtue of a programmer ...  see also
+"impatience" and "hubris".
+-- Larry Wall, _Programming Perl, 2nd Edition_.
+%
+The  anger  you  feel  when the  computer is being lazy.  This  makes  you write
+programs  that don't just react to your needs, but actually anticipate them.  Or 
+at least pretend to.  Hence,  the second great virtue of a programmer.  See also
+"laziness" and "hubris".
+-- Larry Wall, _Programming Perl, 2nd Edition_.
+%
+Excessive pride,  the sort of  thing Zeus zaps you for.  Also  the quality  that
+makes you write (and maintain) programs that other people won't  want to say bad
+things  about.  Hence,  the  third  great  virtue  of  a  programmer.  See  also 
+"laziness" and "impatience".
+-- Larry Wall, _Programming Perl, 2nd Edition_.
+%
+We  are  about to  study  the idea  of  a computational  process.  Computational
+processes are abstract beings that inhabit computers.  As they evolve, processes
+manipulate  other  abstract things  called data.  The evolution  of a process is
+directed  by  a  pattern  of rules called  a program.  People create programs to
+direct processes.  In effect,  we conjure the spirits of  the computer with  our
+spells."
+-- Hal Abelsen, _Structure and Interpretation of Computer Programs_
+%
+Programming in bash is like trying to do long division with roman numerals.
+%
+Bash is to a programming language  as five gnomes in a trenchcoat are to a human
+being.
