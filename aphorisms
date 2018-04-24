@@ -16,6 +16,8 @@ it -- and make sure it has enough stamps.
 %
 The correct pronunciation of "regex" is "ree-jecks".
 %
+PERL, A.K.A. "Further Extended Regex".
+%
 /* Historical note: The original versions of Hack used a range of damage
  * which was similar to, but not identical to the damage used in Advanced
  * Dungeons and Dragons.  I figured that since it was so close, I may as well
@@ -38,7 +40,7 @@ The correct pronunciation of "regex" is "ree-jecks".
  * October 2000: It didn't.  Oh, well.
  */
 %
-"So you see,  not only  does  COBOL  cause  brain  damage;  brain damage causes 
+"So you  see,  not only  does  COBOL  cause  brain  damage;  brain damage causes 
 COBOL."
 -- Peter Merel
 %
@@ -78,3 +80,19 @@ Programming in bash is like trying to do long division with roman numerals.
 %
 Bash is to a programming language  as five gnomes in a trenchcoat are to a human
 being.
+%
+                          GOOD
+      +---------------------------------------------+ 
+      |                                             |
+      |    Python                                   | 
+      |                            Ruby             |
+      |                 Scala                       | 
+      |                                             | 
+LAWFUL| Haskell            Lisp       C             | CHAOTIC
+      |                         C++            PERL | 
+      |                                             |
+      |           C#               Brainfuck        |
+      |                                     INTERCAL|  
+      |   Java      COBOL                           |
+      +---------------------------------------------+
+                           EVIL
